@@ -40,7 +40,7 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<!-- <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/15954749/ajay-nikumbh">
 		<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a> -->
-	      <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/om_bhandarkar_12?utm_source=qr">
+	      <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/om_bhandarkar_12?utm_source=qr"title="Instagram">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		  </div>
 
