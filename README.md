@@ -18,7 +18,7 @@
 <!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; -->
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-<!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; -->
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; 
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
